@@ -1,0 +1,56 @@
+.nav-1 {
+    background-color: #34393F;
+}
+
+#link-verde{
+    color: #397A4E;
+}
+
+#honolulu{
+    background-color: #353A40;
+    color: white;
+    
+}
+
+#honolulu>h2{
+    font-weight: 600;
+
+}
+
+.footer {
+    background-color: #1d4358;
+    margin-top: 15px;
+    padding: 20px 0;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col {
+    width: 14.28%;
+    padding: 0 15px;
+}
+
+.footer-col a {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 450;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.footer-col a:hover {
+    color: #fff;
+    padding-left: 5px;
+}
+
+.oneline {
+    padding-top: 10px;
+}
+
+#col-azul{
+    border-color: royalblue;
+}
